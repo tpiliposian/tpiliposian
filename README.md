@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tpiliposian
-- 👀 I’m interested in web3 security
+- 👀 I’m blockchain security researcher
 - 📫 You can reach me on https://www.linkedin.com/in/tpiliposyan/
 
 <!---
