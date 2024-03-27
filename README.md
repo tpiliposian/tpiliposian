@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently a Security Researcher at [Hexens](https://hexens.io/)
 - 🌱 I’m also a Core Contributor at [Security Wiki](https://wiki.r.security/), and a triager at [Remedy](https://r.xyz/)
-- 💼 You can find my public portfolio [here](https://github.com/tpiliposian/audits/tree/main)
+- 💼 You can find my audit portfolio [here](https://github.com/tpiliposian/audits/tree/main)
 - 💬 Reach out for a comprehensive security audit to safeguard your project
 
 <h2 align="left">Connect with me:</h2>
