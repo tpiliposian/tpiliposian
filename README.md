@@ -1,11 +1,10 @@
-
-# Hey there, I'm tpiliposian
+## Hey there, I'm tpiliposian
 
 
 - I’m currently a Security Researcher at [Hexens](https://hexens.io/)
-- I’m also a Core Contributor at [Security Wiki](https://wiki.r.security/), and a triager at [Remedy](https://r.xyz/)
-- You can find my audit portfolio [here](https://github.com/tpiliposian/audits/tree/main)
-- Reach out for a comprehensive security audit to safeguard your project
+- A triager at [Remedy](https://r.xyz/)
+- Security audit portfolio [here](https://github.com/tpiliposian/audits/tree/main)
+- Reach out for consulting and security reviews
 
 <h2 align="left">Contacts:</h2>
 <p align="left">
