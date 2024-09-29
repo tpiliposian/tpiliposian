@@ -3,8 +3,8 @@
 
 - I’m currently a Security Researcher at [Hexens](https://hexens.io/)
 - A triager at [Remedy](https://r.xyz/)
-- Security audit portfolio [here](https://github.com/tpiliposian/audits/tree/main)
-- Reach out for consulting and security reviews
+- My security audit portfolio is [here](https://github.com/tpiliposian/audits/tree/main)
+- Reach out for consulting and security reviews.
 
 <h2 align="left">Contacts:</h2>
 <p align="left">
