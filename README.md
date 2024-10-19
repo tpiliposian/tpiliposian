@@ -1,8 +1,8 @@
 ## Hey there, I'm tpiliposian
 
 
-- I’m currently a Security Researcher at [Hexens](https://hexens.io/)
-- A triager at [Remedy](https://r.xyz/)
+- Security Researcher at [Hexens](https://hexens.io/)
+- Triager at [Remedy](https://r.xyz/)
 - My security audit portfolio is [here](https://github.com/tpiliposian/audits/tree/main)
 - Reach out for consulting and security reviews.
 
