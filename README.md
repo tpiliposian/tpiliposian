@@ -1,4 +1,4 @@
-## Hey there, I'm Tigran Piliposyan
+## Hey, I'm Tigran Piliposyan
 
 
 - Security Researcher at [Hexens](https://hexens.io/)
