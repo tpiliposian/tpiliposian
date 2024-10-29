@@ -3,6 +3,7 @@
 
 - Security Researcher at [Hexens](https://hexens.io/)
 - My security audit portfolio is [here](https://github.com/tpiliposian/audits/tree/main)
+- The Not Awesome Web3 Security Roadmap is [here](https://github.com/tpiliposian/not-awesome-web3-security-roadmap)
 - Reach out for consulting and security reviews.
 
 <h2 align="left">Contacts:</h2>
