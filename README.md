@@ -8,8 +8,8 @@
 
 <h2 align="left">Contacts:</h2>
 <p align="left">
-  <a href="https://t.me/tpiliposian" target="_blank"><img src="https://github.com/tpiliposian/logo/blob/main/telegram-color.svg" alt="Telegram" height="30" width="40" /></a>
-  <a href="https://twitter.com/tpiliposian" target="_blank"><img src="(https://github.com/tpiliposian/logo/blob/main/transparent-x-logo-logo-brand-identity-company-organization-black-background-white-x-logo-for-1710915881389.webp)" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://t.me/tpiliposian" target="_blank"><img src="https://github.com/tpiliposian/logo/blob/main/telegram-color.svg" alt="Telegram" height="40" width="40" /></a>
+  <a href="https://twitter.com/tpiliposian" target="_blank"><img src="https://github.com/tpiliposian/logo/blob/main/New-Twitter-Logo.png" alt="Twitter" height="40" width="40" /></a>
   </a>
 </p>
 
