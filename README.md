@@ -18,7 +18,6 @@
 <p align="left">
   <a href="https://t.me/tpiliposian" target="_blank"><img src="https://github.com/tpiliposian/logo/blob/main/telegram-color.svg" alt="Telegram" height="40" width="40" /></a>
   <a href="https://twitter.com/tpiliposian" target="_blank"><img src="https://github.com/tpiliposian/logo/blob/main/New-Twitter-Logo.png" alt="Twitter" height="40" width="40" /></a>
-  <a href="https://www.linkedin.com/in/tpiliposian/" target="_blank"><img src="https://github.com/tpiliposian/logo/blob/main/linkedin-color.svg" alt="LinkedIn" height="40" width="40" /></a>
   </a>
 </p>
 
