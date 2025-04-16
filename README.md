@@ -1,8 +1,7 @@
 ## Hey, I'm tpiliposian
 
 
-- Security Researcher at [Hexens](https://hexens.io/)
-- Triage Lead at [Remedy](https://r.xyz/)
+- Security Researcher
 - PhD in Mathematics
 - My security audit portfolio can be found [here](https://github.com/tpiliposian/audits/tree/main)
 - Reach out for consulting and security reviews
